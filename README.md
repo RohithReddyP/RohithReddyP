@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rohith Reddy</h1>
+<h1 align="center">Hi 👋, I'm Rohith Reddy Potha</h1>
 <h3 align="center">💻 Computer Science Student | Full Stack Python Intern | ML & Cybersecurity Enthusiast</h3>
 
 <p align="center">
@@ -103,7 +103,10 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RohithReddyP&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RohithReddyP&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=RohithReddyP&theme=tokyonight" />
 </p>
 
 ---
