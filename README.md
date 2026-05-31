@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohith Reddy Potha</h1>
-<h3 align="center">💻 Computer Science Student | Full Stack Python Intern | ML & Cybersecurity Enthusiast</h3>
+<h3 align="center">💻 Computer Science </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rohith-reddy-potha-881022355/">
