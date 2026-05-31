@@ -16,8 +16,7 @@
 
 🎓 B.Tech CSE Student (2022–2026)  
 💡 Passionate about building real-world software solutions  
-🔍 Interested in **Machine Learning, Cybersecurity & Full Stack Development**  
-🚀 Currently working on **DNS Tunneling Attack Detection using Neural Networks**  
+🔍 Interested in **Developing, Analysing**    
 
 ---
 
@@ -47,7 +46,7 @@
 
 ## 🚀 Projects
 
-### 🔐 DNS Tunneling Attack Detection (Ongoing)
+### 🔐 DNS Tunneling Attack Detection
 - Hybrid Neural Network Model
 - Focused on cybersecurity & anomaly detection
 - Improving accuracy in detecting malicious DNS traffic
@@ -61,13 +60,13 @@
 
 ---
 
-### 🎮 Quiz Game (Python)
+### 🎮 Quiz Game 
 - GUI-based application using Tkinter
 - Dynamic questions & scoring system
 
 ---
 
-### 🏦 Banking Management System (Java)
+### 🏦 Banking Management System 
 - OOP-based system (Inheritance, Encapsulation)
 - File handling for persistent storage
 
@@ -93,9 +92,9 @@
 
 ## 💡 Strengths
 
-✔️ Problem Solving  
+✔️ Problem Solving Mindset 
 ✔️ Adaptability  
-✔️ Time Management  
+✔️ Analytical Thinking
 
 ---
 
