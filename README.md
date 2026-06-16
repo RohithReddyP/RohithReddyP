@@ -47,28 +47,18 @@
 ## 🚀 Projects
 
 ### 🔐 DNS Tunneling Attack Detection
-- Hybrid Neural Network Model
-- Focused on cybersecurity & anomaly detection
-- Improving accuracy in detecting malicious DNS traffic
 
 ---
 
 ### 📊 Big Mart Sales Prediction
-- Machine Learning regression model
-- Data preprocessing & feature engineering
-- Tools: Pandas, NumPy, Scikit-learn
 
 ---
 
 ### 🎮 Quiz Game 
-- GUI-based application using Tkinter
-- Dynamic questions & scoring system
 
 ---
 
 ### 🏦 Banking Management System 
-- OOP-based system (Inheritance, Encapsulation)
-- File handling for persistent storage
 
 ---
 
@@ -86,7 +76,8 @@
 🏅 Gold Medal - Indian Talent Olympiad (GK)  
 🌱 Community service: Educated farmers on crop rotation  
 🗣️ Debate participant - Budget 2025  
-🎯 Model presentation - Independence Day Event  
+🎯 Model presentation - Independence Day Event on Integrated 
+circular generation system for education institutions
 
 ---
 
@@ -95,26 +86,6 @@
 ✔️ Problem Solving Mindset 
 ✔️ Adaptability  
 ✔️ Analytical Thinking
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RohithReddyP&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=RohithReddyP&theme=tokyonight" />
-</p>
-
----
-
-## 🔥 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RohithReddyP&theme=tokyo-night" />
-</p>
 
 ---
 
