@@ -28,6 +28,12 @@
 
 ## 🛠️ Tech Stack
 
+### ⚙️ Tools & Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=git,vscode,pycharm,idea,tauri" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+</p>
+
 ### 💻 Programming Languages
 <p>
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
@@ -41,12 +47,6 @@
 ### 🗄️ Database
 <p>
   <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
-### ⚙️ Tools & Technologies
-<p>
-  <img src="https://skillicons.dev/icons?i=git,vscode,pycharm,idea,tauri" />
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
 </p>
 
 ---
