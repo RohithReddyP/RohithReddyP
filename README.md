@@ -1,4 +1,3 @@
-```md
 <h1 align="center">Hi 👋, I'm Rohith Reddy Potha</h1>
 <h3 align="center">💻 Software Developer | Computer Science Graduate</h3>
 
@@ -103,4 +102,3 @@
 ## ✨ Motto
 
 > "Building meaningful software solutions that create real-world impact."
-```
