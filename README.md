@@ -30,8 +30,9 @@
 
 ### ⚙️ Tools & Technologies
 <p>
-  <img src="https://skillicons.dev/icons?i=git,vscode,pycharm,idea,tauri,pgadmin" />
+  <img src="https://skillicons.dev/icons?i=git,vscode,pycharm,idea,tauri" />
   <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=pgadmin" />
 </p>
 
 ### 💻 Programming Languages
