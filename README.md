@@ -1,40 +1,42 @@
+```md
 <h1 align="center">Hi 👋, I'm Rohith Reddy Potha</h1>
-<h3 align="center">💻 Computer Science </h3>
+<h3 align="center">💻 Software Developer | Computer Science Graduate</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rohith-reddy-potha-881022355/">
-    <img src="https://img.shields.io/badge/LinkedIn-RohithReddy-blue?style=for-the-badge&logo=linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-Rohith%20Reddy-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:potharohithreddy@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-🎓 B.Tech CSE Student (2022–2026)  
-💡 Passionate about building real-world software solutions  
-🔍 Interested in **Developing, Analysing**    
+🎓 B.Tech Graduate in Computer Science Engineering (2022–2026)
+
+💻 Passionate about building software solutions that solve real-world problems.
+
+🌱 Continuously learning and improving my skills in modern technologies and software development practices.
+
+⚡ Exploring React, TypeScript, Tauri, and modern development tools.
+
+🎯 Interested in Software Development, Problem Solving, Application Development, and Technology Innovation.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
+### 💻 Programming Languages
 <p>
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
 </p>
 
 ### 🌐 Web Development
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
-</p>
-
-### 🧠 Libraries & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,vscode,pycharm,idea" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,ts" />
 </p>
 
 ### 🗄️ Database
@@ -42,50 +44,63 @@
   <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
+### ⚙️ Tools & Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=git,vscode" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=black" />
+</p>
+
 ---
 
 ## 🚀 Projects
 
-### 🔐 DNS Tunneling Attack Detection
-
-### 📊 Big Mart Sales Prediction
-
-### 🎮 Quiz Game 
-
-### 🏦 Banking Management System 
+- 🔐 DNS Tunneling Attack Detection
+- 📊 Big Mart Sales Prediction
+- 🎮 Quiz Game
+- 🏦 Banking Management System
+- 🍽️ Restaurant Menu QR Generator
+- 📚 MagicWord
 
 ---
 
 ## 📜 Certifications
 
-✔️ NPTEL - Programming in Java (2025)  
-✔️ NPTEL - Problem Solving through C (2025)  
-✔️ Oracle - Generative AI Professional (2025)  
-✔️ NPTEL - Google Cloud Foundations (2024)  
+✔️ Oracle Generative AI Professional (2025)
+
+✔️ NPTEL – Programming in Java (2025)
+
+✔️ NPTEL – Problem Solving Through C (2025)
+
+✔️ NPTEL – Google Cloud Foundations (2024)
 
 ---
 
 ## 🏆 Achievements & Activities
 
-🏅 Gold Medal - Indian Talent Olympiad (GK)  
-🌱 Community service: Educated farmers on crop rotation  
-🗣️ Debate participant - Budget 2025  
-🎯 Model presentation - Independence Day Event on Integrated 
-circular generation system for education institutions
+🏅 Gold Medal – Indian Talent Olympiad (GK)
+
+🌱 CSP - Educated farmers on crop rotation and sustainable agricultural practices
+
+🗣️ Debate Participant – Budget 2025
+
+🎯 Model Presentation – Integrated Circular Generation System for Educational Institutions
 
 ---
 
-## 💡 Strengths
+## 💡 Core Strengths
 
-✔️ Problem Solving Mindset 
-✔️ Adaptability
+✔️ Problem Solving
+
 ✔️ Analytical Thinking
 
----
+✔️ Adaptability
 
-## ✨ Quote
-
-> "Building solutions that make an impact — one line of code at a time."
+✔️ Team Collaboration
 
 ---
 
+## ✨ Motto
+
+> "Building meaningful software solutions that create real-world impact."
+```
