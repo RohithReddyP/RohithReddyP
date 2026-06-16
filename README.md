@@ -45,7 +45,7 @@
 
 ### ⚙️ Tools & Technologies
 <p>
-  <img src="https://skillicons.dev/icons?i=git,vscode,pycharm,idea" />
+  <img src="https://skillicons.dev/icons?i=git,vscode,pycharm,idea,cursor,tauri" />
   <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
   <img src="https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=black" /> 
 </p>
