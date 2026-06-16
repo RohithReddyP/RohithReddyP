@@ -46,7 +46,7 @@
 ### ⚙️ Tools & Technologies
 <p>
   <img src="https://skillicons.dev/icons?i=git,vscode,pycharm,idea,Cursor,tauri" />
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+  <img src="https://img.icons8.com/ios-filled/50/000000/cursor.png" alt="Cursor" />
 </p>
 
 ---
