@@ -48,15 +48,9 @@
 
 ### 🔐 DNS Tunneling Attack Detection
 
----
-
 ### 📊 Big Mart Sales Prediction
 
----
-
 ### 🎮 Quiz Game 
-
----
 
 ### 🏦 Banking Management System 
 
