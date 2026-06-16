@@ -78,7 +78,7 @@ circular generation system for education institutions
 ## 💡 Strengths
 
 ✔️ Problem Solving Mindset 
-✔️ Adaptability  
+✔️ Adaptability
 ✔️ Analytical Thinking
 
 ---
