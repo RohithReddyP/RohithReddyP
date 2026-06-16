@@ -35,7 +35,7 @@
 
 ### 🌐 Web Development
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,ts" />
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
 ### 🗄️ Database
@@ -45,9 +45,9 @@
 
 ### ⚙️ Tools & Technologies
 <p>
-  <img src="https://skillicons.dev/icons?i=git,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,vscode,pycharm,idea" />
   <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=black" /> 
 </p>
 
 ---
