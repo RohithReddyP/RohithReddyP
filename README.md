@@ -59,6 +59,7 @@
 - 📊 Big Mart Sales Prediction
 - 🎮 Quiz Game
 - 🏦 Banking Management System
+- 🤖 Voice Bot Using STT and TTS
 
 ---
 
