@@ -30,7 +30,7 @@
 
 ### ⚙️ Tools & Technologies
 <p>
-  <img src="https://skillicons.dev/icons?i=git,vscode,pycharm,idea,tauri,postman" />
+  <img src="https://skillicons.dev/icons?i=git,vscode,pycharm,idea,tauri,postman" /><br>
   <img src="https://img.shields.io/badge/REST%20APIs-000000?style=for-the-badge&logo=postman&logoColor=FF6C37" />
   <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white" />
   <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
