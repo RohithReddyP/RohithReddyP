@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohith Reddy Potha</h1>
-<h3 align="center">💻 Software Developer | Computer Science Graduate</h3>
+<h3 align="center">💻 Software Developer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rohith-reddy-potha-881022355/">
@@ -60,15 +60,35 @@
 
 ---
 
-## 📜 Certifications
+## 💼 Experience
 
-✔️ Oracle Generative AI Professional (2025)
+### 🚀 Full Stack Development Intern | Tenacrity Technologies Pvt. Ltd. | Remote
+
+- Developed and contributed to full-stack application features.
+- Worked on front-end and back-end development tasks.
+- Assisted in API development and integration.
+- Performed debugging, testing, and application deployment activities.
+- Collaborated with team members in an agile development environment.
+- Strengthened problem-solving, adaptability, and software development practices.
+
+### 🐍 Full Stack Python Intern | Srivensy Technologies Pvt. Ltd. | Remote
+
+- Developed Python-based applications and assisted in software development activities.
+- Worked with web technologies, databases, and backend logic implementation.
+- Collaborated with mentors and team members to deliver project requirements efficiently.
+
+### 💻 Python Intern | Upskill Campus | Remote
+
+- Built Python programs focusing on problem-solving and application development.
+- Worked on practical assignments and project-based learning activities.
+- Improved coding, debugging, and software development skills.
+
+---
+## 📜 Certifications
 
 ✔️ NPTEL – Programming in Java (2025)
 
 ✔️ NPTEL – Problem Solving Through C (2025)
-
-✔️ NPTEL – Google Cloud Foundations (2024)
 
 ---
 
